@@ -1,4 +1,4 @@
-# PoowerShell
+# PowerShell
 להשארת מסך דולק
 while ($true) {
     Start-Process -FilePath "cmd.exe" -WindowStyle Minimized
